@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/currencyconversion-react-project/static/css/main.1c9eb639.css",
+    "main.js": "/currencyconversion-react-project/static/js/main.f385cb85.js",
+    "static/media/Hero-photo.jpg": "/currencyconversion-react-project/static/media/Hero-photo.4136cd1b27b81fd4096d.jpg",
+    "index.html": "/currencyconversion-react-project/index.html",
+    "main.1c9eb639.css.map": "/currencyconversion-react-project/static/css/main.1c9eb639.css.map",
+    "main.f385cb85.js.map": "/currencyconversion-react-project/static/js/main.f385cb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9eb639.css",
+    "static/js/main.f385cb85.js"
+  ]
+}
